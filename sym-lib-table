@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FloppyPinout")(type "KiCad")(uri "${KIPRJMOD}/FloppyPinout.kicad_sym")(options "")(descr ""))
+)
